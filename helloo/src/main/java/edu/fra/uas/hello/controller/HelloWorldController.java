@@ -12,7 +12,7 @@ public class HelloWorldController {
 @ResponseBody
 
 public String gethelloworld(){
-    return "<h1> Fener Prine !</h1>";
+    return "<h1> Fener Prime !</h1>";
 }
 
 }
